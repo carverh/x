@@ -1,2 +1,1 @@
-# x
-The Xt Operating System
+the codes at https://launchpad.net/xtos you cuck minisucci. :^)
