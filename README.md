@@ -1,1 +1,2 @@
-the codes at https://launchpad.net/xtos you cuck minisucci. :^)
+Project: https://p.dorper.me/projects/xtos
+Git: https://git.dorper.me/xtos.git
